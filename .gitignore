@@ -1,0 +1,19 @@
+# Clickable / CMake
+build/
+.clickable/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# QML compiled
+*.qmlc
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp

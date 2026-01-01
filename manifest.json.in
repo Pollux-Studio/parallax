@@ -1,0 +1,15 @@
+{
+    "name": "parallax.pollux",
+    "description": "Trust & transparency layer for Ubuntu Touch applications",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Parallax",
+    "hooks": {
+        "parallax": {
+            "apparmor": "parallax.apparmor",
+            "desktop":  "parallax.desktop"
+        }
+    },
+    "version": "@BUILD_VERSION@",
+    "maintainer": "Pollux Studio <parallax.support@polluxstudio.in>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
