@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the parallax.pollux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: parallax.pollux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-02 13:34+0000\n"
+"PO-Revision-Date: 2026-01-02 19:37+0100\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: ../qml/AppDetailView.qml:18 ../qml/AppDetailView.qml:24
+msgid "Unknown"
+msgstr "Onbekend"
+
+#: ../qml/AppDetailView.qml:20
+msgid "No Email"
+msgstr "Geen e-mailadres"
+
+#: ../qml/AppDetailView.qml:187
+msgid "Version: %1"
+msgstr "Versie: %1"
+
+#: ../qml/AppDetailView.qml:212
+msgid "Parallax Score"
+msgstr "Parallax-score"
+
+#: ../qml/AppDetailView.qml:290
+msgid "Why this score?"
+msgstr "Hoe is deze score tot stand gekomen?"
+
+#: ../qml/AppDetailView.qml:293
+msgid "No signals found."
+msgstr "Er zijn geen bevoegdheden bekend."
+
+#: ../qml/AppDetailView.qml:320
+msgid "Permissions"
+msgstr "Bevoegdheden"
+
+#: ../qml/AppDetailView.qml:356
+msgid "Updated: "
+msgstr "Bijgewerkt: "
+
+#: ../qml/AppDetailView.qml:379
+msgid "Maintainer"
+msgstr "Beheerder"
+
+#: ../qml/AppDetailView.qml:403
+msgid "Contact"
+msgstr "Contactgegevens"
+
+#: ../qml/AppDetailView.qml:432
+msgid ""
+"Parallax provides information to help you understand app trust. It does not "
+"block or monitor apps."
+msgstr ""
+"Parallax biedt informatie omtrent het vertrouwen in apps. Er worden geen "
+"apps geblokkeerd of actief in de gaten gehouden."
+
+#: ../qml/HomeView.qml:148
+msgid "Apps Protected"
+msgstr "beschermde apps"
+
+#: ../qml/HomeView.qml:189
+msgid "Installed Applications"
+msgstr "Geïnstalleerde apps"
+
+#: ../qml/HomeView.qml:213
+msgid "No applications found"
+msgstr "Er zijn geen apps aangetroffen"
+
+#: parallax.desktop.in.h:1
+msgid "Parallax"
+msgstr "Parallax"
