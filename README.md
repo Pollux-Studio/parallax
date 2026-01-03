@@ -159,6 +159,26 @@ Open an issue or submit a pull request to discuss improvements.
 
 ---
 
+### Contributors
+
+Parallax is made better by community contributions. Thank you to everyone who has helped improve the project.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Vistaus">
+        <img src="https://avatars.githubusercontent.com/u/460593?v=4" width="80" height="80" alt="Vistaus"/>
+        <br />
+        <sub><b>Vistaus</b></sub>
+      </a>
+      <br />
+      <sub>Dutch translation</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### License
 
 MIT License
