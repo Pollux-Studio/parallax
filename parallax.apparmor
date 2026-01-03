@@ -1,4 +1,8 @@
 {
     "policy_groups": [],
-    "policy_version": 20.04
+    "policy_version": 20.04,
+    "read_path": [
+        "/opt/click.ubuntu.com/",
+        "/opt/click.ubuntu.com/**"
+    ]
 }
