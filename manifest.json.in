@@ -10,7 +10,7 @@
             "desktop":  "parallax.desktop"
         }
     },
-    "version": "@BUILD_VERSION@",
+    "version": "0.1.1",
     "maintainer": "Pollux Studio <parallax.support@polluxstudio.in>",
     "framework" : "@CLICK_FRAMEWORK@"
 }
